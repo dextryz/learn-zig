@@ -1,3 +1,4 @@
+///! https://levin405.neocities.org/blog/2025-03-05-zig-error-handling/
 const std = @import("std");
 
 const MathError = error{
